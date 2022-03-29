@@ -1,0 +1,41 @@
+body{
+    background-color: gray;
+    
+}
+nav .header-links{
+    padding: 10px;
+    list-style-type: none;
+    text-align: right;
+}
+div .illustration{
+    display: flex;
+    justify-content: center;
+
+}
+.fylo{
+    position: relative;
+    left: 20rem;
+}
+.fylo h1{
+    width: 45%;
+    font-size: 2rem;
+    text-align: center;
+    position: relative;
+    right: 3rem;
+}
+.fylo p{
+    text-align: center;
+    position: relative;
+    right: 1rem;
+    left: 1rem;
+    width: 30%;
+}
+.fylo button{
+    width: 12%;
+    position: relative;
+    left: 5rem;
+    border-radius: 5rem;
+    height: 2rem;
+    
+}
+
